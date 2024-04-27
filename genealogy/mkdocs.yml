@@ -27,4 +27,4 @@ extra_javascript:
   - javascript/tablesort.js
 
 extra_css:
-  stylesheets/tables.css
+  - stylesheets/tables.css
