@@ -18,4 +18,4 @@ Studio run by Frank Bill and John Overton
 | 1898     | 176 Euclid |
 | 1899     | 176 Euclid |
 
-temp2
+temp3
