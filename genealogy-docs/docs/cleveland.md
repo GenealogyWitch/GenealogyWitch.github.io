@@ -1,6 +1,12 @@
 # Cleveland Photographers
 
-Names sorted alphabetically by **business name**. This means "John E. Dietrich" is treated as a business name starting with J and is alphabetized as such. All sources for years of operation are from the Cleveland City directories. It's possible the photographer existed before or after the years they appeared in the directory but knowing when they were advertising helps.
+Names sorted alphabetically by **business name**. This means "John E. Dietrich" is treated as a business name starting with J and is alphabetized as such. All sources for years of operation are from the Cleveland City directories. It's possible the photographer existed before or after the years they appeared in the directory but knowing when they were advertising helps. **The directories do NOT run from January to December, but instead July of the starting year, to June of the following year**. It can be confirmed they run this way starting at least 1869 - the 1869 directory is for the year ending June 1870, the 1870 directory is for the year ending June 1871, etc. 
+
+I have recorded the **start year** in the tables, so the 1897 reported address is the one reported in the city directory for the year **ending July 1898** since that would have been what the photographer reported May or June in 1897.
+
+Ancestry got confused about this (not hard to do) and begins with directories beginning in the indexed year. Then they skip 1879 (which isn't truly missing) then say 1880 is for the year ENDING in 1880 instead of starting in it, thus their 1880 directory should be 1879, and 1881 should be 1880, etc if they had stuck to their initial pattern. Then they are *actually missing* the directory for the year ending 1901 (what the tables would say is the 1900 directory), and 1901 reverts to the old pattern with year beginning 1901 and ending July 1902.
+
+If you want to see all available photographers for a given year, and the sources for these tables go to the [Cleveland Directories](https://genealogywitch.github.io/cleveland_directories/).
 
 ## Bill & Overton
 
@@ -8,18 +14,18 @@ Studio run by Frank Bill and John Overton
 
 | Year       | Address |
 | ----------- | ----------- |
+| 1890     | 435 Pearl |
 | 1891     | 435 Pearl |
-| 1892     | 435 Pearl |
+| 1892     | ? |
 | 1893     | ? |
-| 1894     | ? |
+| 1894     | 435 Pearl |
 | 1895     | 435 Pearl |
 | 1896     | 435 Pearl |
-| 1897     | 435 Pearl |
+| 1897     | 176 Euclid |
 | 1898     | 176 Euclid |
-| 1899     | 176 Euclid |
-| 1900     | none |
+| 1899     | none |
 
-Checking the 1900 directory, Bill Frank still lives at 176 Euclid but the combined business is not advertised
+Checking the 1901 directory, (1900 is missing) Bill Frank still lives at 176 Euclid but the combined business is not advertised
 
 ## Freedle
 Name appears 'Freedle' on the samples I have found, J. W. Freedle in the directory
@@ -30,7 +36,7 @@ Name appears 'Freedle' on the samples I have found, J. W. Freedle in the directo
 | 1876     | 225 Superior |
 | 1877     | 225 Superior |
 | 1878     | 225 Superior |
-| 1879     | ? |
+| 1879     | 225 Superior |
 | 1880     | 225 Superior |
 | 1881     | 225 Superior |
 | 1882     | 225 Superior |
@@ -40,8 +46,7 @@ Name appears 'Freedle' on the samples I have found, J. W. Freedle in the directo
 | 1886     | 225 Superior |
 | 1887     | 225 Superior |
 | 1888     | 225 Superior |
-| 1889     | 225 Superior |
-| 1890     | Not Listed as photographer |
+| 1889     | Not Listed as photographer |
 
 ## Henry Biddle
 
@@ -173,7 +178,7 @@ Previously just M. E. Beckworth
 | 1865     | 205 Superior |
 | 1866     | 205 Superior is listed as residential address, no business address |
 | 1867     | 211 Superior |
-| 1868     | ? |
+| 1868     | 211 Superior |
 | 1869     | 211 Superior |
 | 1870     | 211 Superior |
 | 1871     | 211 Superior |

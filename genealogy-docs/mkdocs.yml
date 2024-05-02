@@ -2,7 +2,8 @@ site_name: Accumulated Genealogy Resources
 
 nav:
     - Historical Photographers:
-      - Cleveland: cleveland.md
+      - Cleveland Photographers: cleveland.md
+      - Cleveland Directories: cleveland_directories.md
 
 markdown_extensions:
   - pymdownx.emoji:
