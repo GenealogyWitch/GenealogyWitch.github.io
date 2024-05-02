@@ -1,6 +1,6 @@
 # Cleveland City Directory Images
 
-Note - the 1861 directory was for the year ending Jul 1862, the 1887 directory is for the year ending Jul 1888, etc.
+Note - the 1861 directory was for the directory released for 1861-1862, the 1887 directory was released in 1887 for the year ending Jul 1888, etc.
 
 ## 1860's
 
