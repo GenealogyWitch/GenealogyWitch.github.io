@@ -326,6 +326,24 @@ Note that while it was not advertising a phone number, we [have a photo of an in
 
 Stein, E. A. is at 211 Superior starting in 1880.
 
+## Roberts & Brooks
+
+| Year       | Address |
+| ----------- | ----------- |
+| 1885     | *Not listed as photographer* |
+| 1886     | 130 Ontario |
+| 1887     | 130 Ontario |
+| 1888     | 130 Ontario |
+| 1889     | 130 Ontario |
+| 1890     | 130 Ontario |
+| 1891     | 130 Ontario |
+| 1892     | 130 Ontario |
+| 1893     | 130 Ontario |
+| 1894     | 130 Ontario |
+| 1895     | ? |
+| 1896     | *Not listed as photographer* |
+| 1897     | *Not listed as photographer* |
+
 ## Ryder, J. F.
 
 | Year       | Name | Address | Phone |
