@@ -408,3 +408,23 @@ Stein, E. A. is at 211 Superior starting in 1880.
 | 1897     | Ryder, John H. | 211 Superior |
 | 1898     | *Not listed as photographer* |  |
 | 1899     | *Not listed as photographer* |  |
+
+## Schiffer, Adolph
+
+This seems to be the same as "Schiffer's Art Studio" given the existance of that name on cabinet cards at 603 Pearl, and no other Schiffers listed in the Photography section of the directory.
+
+| Year       | Name | Address |
+| ----------- |----------- | ----------- |
+| 1887     | *Not listed as photographer* |  |
+| 1888     | Schiffer, Adolph | Jennings av. ne. cor. Auburn |
+| 1889     | Schiffer, Adolph | Jennings av. ne. cor. Auburn |
+| 1890     | Schiffer, Adolph | 603 Pearl |
+| 1891     | Schiffer, Adolph S. | 603 Pearl |
+| 1892     | Schiffer, Adolph | 603 Pearl |
+| 1893     | Schiffer, Adolph S. | 603 Pearl |
+| 1894     | Schiffer, Adolph S. | 603 Pearl |
+| 1895     | ? | ? |
+| 1896     | Schiffer, Adolph | 603 Pearl |
+| 1897     | Schiffer, Adolph | 7 Eagle |
+| 1898     | Schiffer, Adolph | 7 Eagle |
+| 1899     | Schiffer, Adolph | 7 Eagle |
